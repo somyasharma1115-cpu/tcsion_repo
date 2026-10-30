@@ -1,0 +1,6 @@
+{
+  "name": "RescueRoute Signal Sync",
+  "description": "Real-time emergency vehicle green corridor orchestration, traffic signal preemption simulator, and cross-agency intersection delay accountability platform for urban emergency response.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
